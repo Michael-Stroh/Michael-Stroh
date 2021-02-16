@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michael-Stroh
 - 👀 I’m interested in java/python and much more
 - 🌱 I’m currently learning final year BSc CS student at Tuks.
-- 💞️ I’m looking to collaborate on a project where we program drones( search/identify/security )
+- 💞️ I’m looking to collaborate on a project where we program drones for various different outcomes( search/identify/security )
 - 📫 To reach me, email me on u17023557@tuks.co.za
 
 <!---
