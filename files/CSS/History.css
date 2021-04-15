@@ -1,0 +1,28 @@
+html {
+
+	background: url("../Backgrounds/About.png") no-repeat fixed;
+	background-size: cover;
+	background-position: center;
+	color: #ffffff; 
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+}
+
+.name {
+
+	color: #ffb380;
+	padding: 4% 10% 6% 10%;
+	font-size: 300%;
+}
+
+
+.mainHold {
+
+	width: 80%;
+	border: 6px solid rgba(0, 0, 0, 0.8);
+	border-radius: 50px;
+	background-color: rgba(241, 241, 241, 0.8); 
+	padding: 1% 1% 1% 7%;
+	margin: 1% 1% 8% 5%;
+	color: #000000;
+}

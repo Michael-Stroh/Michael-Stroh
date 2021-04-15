@@ -1,0 +1,80 @@
+html {
+
+	background: url("../Backgrounds/Discovery.png") no-repeat fixed;
+	background-size: cover;
+	background-position: center;
+	color: #ffffff;
+	font-size: 100%;
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	position: realtive;
+	align-items: center;
+}
+
+.name {
+
+	color: #8601AF;
+	font-size: 200%;
+}
+
+.mainHold {
+
+	/*margin: 3% 1% 8% 8%;
+	  width: 80%;
+	  width: 50em;
+	*/
+	
+	/*
+		white background with black border
+		black background with white border
+		black background with black border
+		
+	*/
+	
+	width: 90%;
+	border: 0.35em solid rgba(0, 0, 0, 0.8);
+	border-radius: 2.5em;
+	/*background-color: rgba(241, 241, 241, 0.6); */
+	background-color: rgba(0, 0, 0, 0.6); 
+	font-size: 130%;
+	padding: 0% 1% 2% 1%;
+	margin: 6% auto;		/* top&bot then left&right */
+}
+
+.image {
+	
+	height: 20em;
+	width: 20em;
+	margin: 1% 1% 1% 1%;
+	padding: 1% 1% 1% 1%;
+	border-radius: 2.5em;
+}
+
+
+.icon {
+	
+	height: 2em;
+	width: 2em;
+}
+
+.grid-container {
+	
+	display: grid;
+	grid-template-columns: 8em 50em 8em;
+	grid-gap: 0.85em;
+	max-width: 65em;
+	width: 65em;
+	margin: 1% 1% 1% 1%;
+	align-items: center;
+}
+
+.grid-container > div {
+
+	padding: 1% 0%;
+}
+
+.iconHeading {
+	/*was 8*/
+	height: 2em;
+	width: 2em;
+}
