@@ -16,7 +16,7 @@ How to interact with me:
 - Email me on :email: m.stroh@tuks.co.za
 - :mortar_board: <a href="https://www.linkedin.com/in/stroh-michael"> LinkedIn Account </a>
 
-# My persoanl Website
+# My personal Website
 To get to know me better you can view my personal website. <br>
 This is a more interactive way of finding out more about me and was fun to make.
 
