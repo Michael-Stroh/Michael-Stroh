@@ -6,9 +6,9 @@ Here is a little about me:
 - One of my favourite languages is Java
 
 
-To reach me, 📫email me on m.stroh@tuks.co.za
+To reach me, email me on :email: m.stroh@tuks.co.za
 
-You could also have a look at my linked account, href{here}{https://www.linkedin.com/in/stroh-michael/}
+You could also have a look at my linked account, :mortar_board: <a href="https://www.linkedin.com/in/stroh-michael"> 
 <!---
 Michael-Stroh/Michael-Stroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
