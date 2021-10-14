@@ -46,7 +46,7 @@ This project involved creating a virtual version of the popular geocaching activ
 You can navigate to the following link to find out more about it and how I participated in it: <br>
 <a href="https://github.com/COS301-SE-2021/GeoCode"> Project GeoCode </a>
 
-There are also a lot of other amazing projects that was done for the same course at UP that I recommend you look at:
+There are also a lot of other amazing projects that was done for the same course at UP that I recommend you look at: <br>
 <a href="https://github.com/COS301-SE-2021/"> COS 301 CapStone </a>
 
 <!---
