@@ -9,7 +9,7 @@ Here is a little about me:
 A few of my none coding hobbies :bowling: are:
 - Archery on the weekends
 - Longboarding through Pretoira
-- Playing tennis with my friends
+- Playing tennis :tennis::tennis: with my friends
 - A calm game of chess
 
 How to interact with me:
