@@ -36,6 +36,19 @@ https://michael-stroh.github.io/
          and iris virginica.
 </pre>
 
+# Recent Project
+
+While I am involved in a lot of projects I am not always allowed to share these projects publicly.
+
+One of the more recent projects I have been apart of was for my final year project, COS 301 at UP.
+This project involved creating a virtual version of the popular geocaching activity with a few interesting twists.
+
+You can navigate to the following link to find out more about it and how I participated in it:
+https://github.com/COS301-SE-2021/GeoCode
+
+There are also a lot of other amazing projects that was done for the same course at UP that I recommend you look at:
+https://github.com/COS301-SE-2021/
+
 <!---
 Michael-Stroh/Michael-Stroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
