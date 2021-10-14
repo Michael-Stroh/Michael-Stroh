@@ -1,4 +1,4 @@
-# 👋 Hello, I’m @Michael-Stroh
+# 👋 Hello There, I’m @Michael-Stroh
 
 Here is a little about me:
 - I’m currently a final year BSc Computer Science student :books: at the <a href="https://www.up.ac.za/"> University of Pretoria </a>
