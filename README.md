@@ -16,9 +16,11 @@ How to interact with me:
 - Email me on :email: m.stroh@tuks.co.za
 - :mortar_board: <a href="https://www.linkedin.com/in/stroh-michael"> LinkedIn Account </a>
 
+
 To get to know me better you can view my personal website: https://michael-stroh.github.io/
 
-A short paragraph about me
+
+# A short paragraph about me
 <pre>
          Michael Ströh has learnt throughout his university career that perseverance leads to
          excellence. Through working as a Teaching Assistant for COS 212 (Data Structures)
