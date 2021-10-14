@@ -4,7 +4,7 @@ Here is a little about me:
 - I’m currently a final year BSc Computer Science student :books: at the <a href="https://www.up.ac.za/"> University of Pretoria </a>
 - I have recently found I enjoy devops and mostly do backend :ghost:
 - One of my favourite languages is Java
-- I am located in <a href="https://en.wikipedia.org/wiki/Gauteng"> Guateng, South Africa </a> :world_map:
+- I am located in <a href="https://en.wikipedia.org/wiki/Gauteng"> Gauteng, South Africa </a> :world_map:
 
 A few of my none coding hobbies :bowling: are:
 - Archery on the weekends
