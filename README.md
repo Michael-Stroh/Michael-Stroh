@@ -4,6 +4,7 @@ Here is a little about me:
 - 🌱 I’m currently a final year BSc CS student at the University of Pretoria
 - I have recently found I enjoy devops and mostly do backend :ghost:
 - One of my favourite languages is Java
+- I am located in Guateng, South Africa :world_map:
 
 
 To reach me, email me on :email: m.stroh@tuks.co.za
