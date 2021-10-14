@@ -18,6 +18,18 @@ How to interact with me:
 
 To get to know me better you can view my personal website: https://michael-stroh.github.io/
 
+A short paragraph about me
+<pre>
+         Michael Ströh has learnt throughout his university career that perseverance leads to
+         excellence. Through working as a Teaching Assistant for COS 212 (Data Structures)
+         and a Student Lab Technician in the CBT labs at the University Of Pretoria he has
+         learnt how to manage his time wisely and effectively communicate not only as a team
+         but also as an individual. As an Artificial Intelligence project Michael Ströh 
+         successfully completed a Sudoku solver using Generic Algorithms and a flower 
+         specimens classifier using Machine Learning with back propagation to identify 
+         the different species of the iris flower, namely, iris setosa, iris versicolour 
+         and iris virginica.
+</pre>
 
 <!---
 Michael-Stroh/Michael-Stroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
